@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.contact{
+    font-weight: 100;
+    margin-bottom: 50px;
+    letter-spacing: 4px;
+}
+.name{
+        border-bottom: 1px solid gray;
+        width: 1100px;
+        margin-top: 50px;
+        padding-bottom: 20px;
+}
+.p1{
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+.h2{
+    color: rgb(19, 99, 113);
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+
+.container{
+    margin-left: 50px;
+    margin-top: 50px;
+        padding-left: 200px;
+    padding-right: 200px;
+}
+.namee{
+    color: gray;
+    width: 1100px;
+    margin-top: 30px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+    }
+    .msg{
+        border-bottom: 1px solid gray;
+        width: 1100px;
+        margin-top: 50px;
+        color: gray;
+        padding-bottom: 20px;
+    }
+    .send{
+font-weight: 100;
+font-size: 20px;
+margin-top: 20px;
+background-color: #ccc;
+padding: 10px;
+width: 180px;
+
+ text-align: center;
+    }
+
+
+    .footer{
+        background-color: #f1f1f1;
+        padding-top: 70px;
+        text-align: center;
+        margin-top: 50px;
+        padding-bottom: 70px;
+    }
